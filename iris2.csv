@@ -1,161 +1,161 @@
 Date,Grade,Priority
-"Tue, Apr 21",2,High
-"Wed, Apr 22",2,High
-"Thu, Apr 23",1,High
-"Fri, Apr 24",10,High
-"Sat, Apr 25",7,High
-"Sun, Apr 26",10,High
-"Mon, Apr 27",2,High
-"Tue, Apr 28",1,High
-"Wed, Apr 29",8,High
-"Thu, Apr 30",8,High
-"Fri, May 1",11,High
-"Sat, May 2",1,High
-"Sun, May 3",3,High
-"Mon, May 4",1,High
-"Tue, May 5",4,High
-"Wed, May 6",10,High
-"Thu, May 7",3,High
-"Fri, May 8",7,High
-"Sat, May 9",6,High
-"Sun, May 10",11,High
-"Mon, May 11",1,High
-"Tue, May 12",6,High
-"Wed, May 13",8,High
-"Thu, May 14",11,High
-"Fri, May 15",4,High
-"Sat, May 16",8,High
-"Sun, May 17",2,High
-"Mon, May 18",11,High
-"Tue, May 19",1,High
-"Wed, May 20",9,High
-"Thu, May 21",10,High
-"Fri, May 22",8,High
-"Tue, Apr 21",9,High
-"Wed, Apr 22",9,High
-"Thu, Apr 23",8,High
-"Fri, Apr 24",3,High
-"Sat, Apr 25",1,High
-"Sun, Apr 26",10,High
-"Mon, Apr 27",4,High
-"Tue, Apr 28",10,High
-"Wed, Apr 29",10,High
-"Thu, Apr 30",7,High
-"Fri, May 1",3,High
-"Sat, May 2",9,High
-"Sun, May 3",6,High
-"Mon, May 4",2,High
-"Tue, May 5",10,High
-"Wed, May 6",10,High
-"Thu, May 7",8,High
-"Fri, May 8",6,High
-"Sat, May 9",7,Imminent
-"Sun, May 10",11,Imminent
-"Mon, May 11",3,Imminent
-"Tue, May 12",7,Imminent
-"Wed, May 13",2,Imminent
-"Thu, May 14",9,Imminent
-"Fri, May 15",7,Imminent
-"Sat, May 16",7,Imminent
-"Sun, May 17",9,Imminent
-"Mon, May 18",8,Imminent
-"Tue, May 19",10,Imminent
-"Wed, May 20",1,Imminent
-"Thu, May 21",3,Imminent
-"Fri, May 22",3,Imminent
-"Tue, Apr 21",6,Imminent
-"Wed, Apr 22",2,Imminent
-"Thu, Apr 23",10,Imminent
-"Fri, Apr 24",10,Imminent
-"Sat, Apr 25",10,Imminent
-"Sun, Apr 26",3,Imminent
-"Mon, Apr 27",1,Imminent
-"Tue, Apr 28",9,Imminent
-"Wed, Apr 29",8,Imminent
-"Thu, Apr 30",4,Imminent
-"Fri, May 1",7,Imminent
-"Sat, May 2",9,Imminent
-"Sun, May 3",2,Imminent
-"Mon, May 4",5,Imminent
-"Tue, May 5",2,Imminent
-"Wed, May 6",8,Imminent
-"Thu, May 7",2,Imminent
-"Fri, May 8",9,Imminent
-"Sat, May 9",10,Imminent
-"Sun, May 10",11,Imminent
-"Mon, May 11",11,Imminent
-"Tue, May 12",11,Imminent
-"Wed, May 13",8,Imminent
-"Thu, May 14",10,Imminent
-"Fri, May 15",6,Imminent
-"Sat, May 16",3,Imminent
-"Sun, May 17",1,Imminent
-"Mon, May 18",8,Imminent
-"Tue, May 19",10,Imminent
-"Wed, May 20",1,Imminent
-"Thu, May 21",4,Imminent
-"Fri, May 22",8,Imminent
-"Tue, Apr 21",8,Imminent
-"Wed, Apr 22",11,Imminent
-"Thu, Apr 23",5,Imminent
-"Fri, Apr 24",10,Imminent
-"Sat, Apr 25",9,Moderate
-"Sun, Apr 26",9,Moderate
-"Mon, Apr 27",11,Moderate
-"Tue, Apr 28",3,Moderate
-"Wed, Apr 29",6,Moderate
-"Thu, Apr 30",5,Moderate
-"Fri, May 1",1,Moderate
-"Sat, May 2",6,Moderate
-"Sun, May 3",2,Moderate
-"Mon, May 4",1,Moderate
-"Tue, May 5",6,Moderate
-"Wed, May 6",1,Moderate
-"Thu, May 7",2,Moderate
-"Fri, May 8",1,Moderate
-"Sat, May 9",4,Moderate
-"Sun, May 10",1,Moderate
-"Mon, May 11",2,Moderate
-"Tue, May 12",3,Moderate
-"Wed, May 13",3,Moderate
-"Thu, May 14",11,Moderate
-"Fri, May 15",8,Moderate
-"Sat, May 16",8,Moderate
-"Sun, May 17",11,Moderate
-"Mon, May 18",6,Moderate
-"Tue, May 19",3,Moderate
-"Wed, May 20",6,Moderate
-"Thu, May 21",8,Moderate
-"Fri, May 22",5,Moderate
-"Tue, Apr 21",4,Minimal
-"Wed, Apr 22",4,Minimal
-"Thu, Apr 23",7,Minimal
-"Fri, Apr 24",4,Minimal
-"Sat, Apr 25",10,Minimal
-"Sun, Apr 26",8,Minimal
-"Mon, Apr 27",9,Minimal
-"Tue, Apr 28",9,Minimal
-"Wed, Apr 29",10,Minimal
-"Thu, Apr 30",7,Minimal
-"Fri, May 1",6,Minimal
-"Sat, May 2",7,Minimal
-"Sun, May 3",11,Minimal
-"Mon, May 4",3,Minimal
-"Tue, May 5",10,Minimal
-"Wed, May 6",8,Minimal
-"Thu, May 7",8,Minimal
-"Fri, May 8",1,Minimal
-"Sat, May 9",7,Minimal
-"Sun, May 10",8,Minimal
-"Mon, May 11",7,Minimal
-"Tue, May 12",4,Minimal
-"Wed, May 13",6,Minimal
-"Thu, May 14",4,Minimal
-"Fri, May 15",10,Minimal
-"Sat, May 16",2,Minimal
-"Sun, May 17",2,Minimal
-"Mon, May 18",6,Minimal
-"Tue, May 19",9,Minimal
-"Wed, May 20",3,Minimal
-"Thu, May 21",6,Minimal
-"Fri, May 22",11,Minimal
+04-21-2020,7,High
+04-22-2020,6,High
+04-23-2020,10,High
+04-24-2020,2,High
+04-25-2020,1,High
+04-26-2020,2,High
+04-27-2020,4,High
+04-28-2020,11,High
+04-29-2020,2,High
+04-30-2020,6,High
+05-01-2020,5,High
+05-02-2020,2,High
+05-03-2020,10,High
+05-04-2020,11,High
+05-05-2020,8,High
+05-06-2020,3,High
+05-07-2020,6,High
+05-08-2020,6,High
+05-09-2020,8,High
+05-10-2020,2,High
+05-11-2020,9,High
+05-12-2020,9,High
+05-13-2020,8,High
+05-14-2020,4,High
+05-15-2020,9,High
+05-16-2020,7,High
+05-17-2020,1,High
+05-18-2020,6,High
+05-19-2020,2,High
+05-20-2020,6,High
+05-21-2020,7,High
+05-22-2020,1,High
+04-21-2020,4,High
+04-22-2020,3,High
+04-23-2020,11,High
+04-24-2020,2,High
+04-25-2020,1,High
+04-26-2020,4,High
+04-27-2020,11,High
+04-28-2020,2,High
+04-29-2020,7,High
+04-30-2020,4,High
+05-01-2020,3,High
+05-02-2020,1,High
+05-03-2020,10,High
+05-04-2020,7,High
+05-05-2020,1,High
+05-06-2020,8,High
+05-07-2020,5,High
+05-08-2020,2,High
+05-09-2020,4,Imminent
+05-10-2020,9,Imminent
+05-11-2020,11,Imminent
+05-12-2020,5,Imminent
+05-13-2020,10,Imminent
+05-14-2020,5,Imminent
+05-15-2020,6,Imminent
+05-16-2020,4,Imminent
+05-17-2020,9,Imminent
+05-18-2020,2,Imminent
+05-19-2020,3,Imminent
+05-20-2020,10,Imminent
+05-21-2020,6,Imminent
+05-22-2020,11,Imminent
+04-21-2020,7,Imminent
+04-22-2020,8,Imminent
+04-23-2020,4,Imminent
+04-24-2020,9,Imminent
+04-25-2020,8,Imminent
+04-26-2020,6,Imminent
+04-27-2020,11,Imminent
+04-28-2020,4,Imminent
+04-29-2020,3,Imminent
+04-30-2020,4,Imminent
+05-01-2020,4,Imminent
+05-02-2020,10,Imminent
+05-03-2020,6,Imminent
+05-04-2020,4,Imminent
+05-05-2020,5,Imminent
+05-06-2020,7,Imminent
+05-07-2020,8,Imminent
+05-08-2020,2,Imminent
+05-09-2020,1,Imminent
+05-10-2020,4,Imminent
+05-11-2020,4,Imminent
+05-12-2020,3,Imminent
+05-13-2020,3,Imminent
+05-14-2020,2,Imminent
+05-15-2020,5,Imminent
+05-16-2020,3,Imminent
+05-17-2020,6,Imminent
+05-18-2020,4,Imminent
+05-19-2020,10,Imminent
+05-20-2020,8,Imminent
+05-21-2020,7,Imminent
+05-22-2020,9,Imminent
+04-21-2020,1,Imminent
+04-22-2020,7,Imminent
+04-23-2020,10,Imminent
+04-24-2020,3,Imminent
+04-25-2020,7,Moderate
+04-26-2020,6,Moderate
+04-27-2020,8,Moderate
+04-28-2020,10,Moderate
+04-29-2020,3,Moderate
+04-30-2020,9,Moderate
+05-01-2020,11,Moderate
+05-02-2020,10,Moderate
+05-03-2020,10,Moderate
+05-04-2020,8,Moderate
+05-05-2020,9,Moderate
+05-06-2020,3,Moderate
+05-07-2020,11,Moderate
+05-08-2020,3,Moderate
+05-09-2020,2,Moderate
+05-10-2020,8,Moderate
+05-11-2020,8,Moderate
+05-12-2020,7,Moderate
+05-13-2020,9,Moderate
+05-14-2020,10,Moderate
+05-15-2020,11,Moderate
+05-16-2020,6,Moderate
+05-17-2020,2,Moderate
+05-18-2020,10,Moderate
+05-19-2020,3,Moderate
+05-20-2020,11,Moderate
+05-21-2020,3,Moderate
+05-22-2020,7,Moderate
+04-21-2020,7,Minimal
+04-22-2020,7,Minimal
+04-23-2020,2,Minimal
+04-24-2020,3,Minimal
+04-25-2020,8,Minimal
+04-26-2020,11,Minimal
+04-27-2020,9,Minimal
+04-28-2020,1,Minimal
+04-29-2020,6,Minimal
+04-30-2020,5,Minimal
+05-01-2020,9,Minimal
+05-02-2020,1,Minimal
+05-03-2020,10,Minimal
+05-04-2020,8,Minimal
+05-05-2020,10,Minimal
+05-06-2020,1,Minimal
+05-07-2020,11,Minimal
+05-08-2020,4,Minimal
+05-09-2020,1,Minimal
+05-10-2020,2,Minimal
+05-11-2020,9,Minimal
+05-12-2020,7,Minimal
+05-13-2020,3,Minimal
+05-14-2020,6,Minimal
+05-15-2020,4,Minimal
+05-16-2020,8,Minimal
+05-17-2020,1,Minimal
+05-18-2020,4,Minimal
+05-19-2020,7,Minimal
+05-20-2020,5,Minimal
+05-21-2020,5,Minimal
+05-22-2020,10,Minimal
